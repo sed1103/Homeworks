@@ -1,0 +1,15 @@
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/bin/Debug/net7.0/3
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/bin/Debug/net7.0/3.deps.json
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/bin/Debug/net7.0/3.runtimeconfig.json
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/bin/Debug/net7.0/3.dll
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/bin/Debug/net7.0/3.pdb
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.dll
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/refint/3.dll
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.pdb
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/Users/sedakirakosyan/RiderProjects/ConsoleApp2/3/obj/Debug/net7.0/ref/3.dll
